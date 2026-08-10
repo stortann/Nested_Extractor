@@ -1,5 +1,5 @@
 # Nested Extractor
-This little script was created in response to having to work on a lot of nested archives, without the possibility of using anything but the standard 7zip program and rights to work with .bat files. 
+This script was created in response to having to work on a lot of nested archives, without the possibility of using anything but the standard 7zip program and rights to work with .bat files. 
 
 ## Requirements
 - 7zip program installed on your machine
